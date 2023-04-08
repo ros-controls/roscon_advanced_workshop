@@ -29,7 +29,6 @@ For more details check [this presentation](https://control.ros.org/master/doc/re
 The structure of the repository follows the flow of integrating robots with ROS2 and those are the following steps:
 
 
-Intro -- 30 min
 
 1. 📑 Setting up hardware description for *ros2_control* -- 1h
 
